@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=Masternode (Zyrk Masternode) activation tool
+Exec=Masternode Tool
+GenericName=Masternode activation tool
+Icon=masternode-tool
+Name=Masternode Tool
+Categories=Finance;Network;
+StartupNotify=false
+Terminal=false
+Type=Application

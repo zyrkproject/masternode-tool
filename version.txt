@@ -1,0 +1,5 @@
+version_str = '0.9.19r4'
+exe_mac = ''
+exe_win = ''
+exe_win32 = ''
+exe_linux = ''
